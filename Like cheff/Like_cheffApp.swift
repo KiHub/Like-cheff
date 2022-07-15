@@ -11,7 +11,7 @@ import SwiftUI
 struct Like_cheffApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+           RecipeCategoryListScreen()
         }
     }
 }
